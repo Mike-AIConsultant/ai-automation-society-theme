@@ -1,0 +1,14 @@
+{
+  "name": "ai-automation-society-theme",
+  "owner": {
+    "name": "Mike Zam"
+  },
+  "plugins": [
+    {
+      "name": "ai-automation-society-theme",
+      "source": "./",
+      "description": "AI Automation Society look for the Claude desktop app: the glowing, moving sky, globe logo, name and pine ridge from the community card. Confetti for each finished step, AI-ray fireworks when a task is done."
+    }
+  ],
+  "description": "AI Automation Society look for the Claude desktop app: the glowing, moving sky, globe logo, name and pine ridge from the community card. Confetti for each finished step, AI-ray fireworks when a task is done."
+}

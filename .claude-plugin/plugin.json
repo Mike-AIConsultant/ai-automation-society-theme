@@ -1,0 +1,9 @@
+{
+  "name": "ai-automation-society-theme",
+  "version": "1.0.0",
+  "description": "AI Automation Society look for the Claude desktop app: the glowing, moving sky, globe logo, name and pine ridge from the community card. Confetti for each finished step, AI-ray fireworks when a task is done.",
+  "author": {
+    "name": "Mike Zam"
+  },
+  "types": "./types/index.d.ts"
+}
